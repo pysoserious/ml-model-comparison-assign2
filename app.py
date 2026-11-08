@@ -158,7 +158,8 @@ def compute_metrics(y_true, y_pred, y_proba):
 # ---------------------------------------------------------
 # Sidebar Controls
 # ---------------------------------------------------------
-st.sidebar.title("🛠️ Configuration")
+st.sidebar.title("ML Model Comparison")
+st.sidebar.markdown("**Config Panel**")
 
 # 1. Dataset Upload Option
 st.sidebar.subheader("1. Test Dataset")
