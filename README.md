@@ -1,7 +1,7 @@
 # ML Model Comparison & Deployment | BITS Pilani AIML Assignment 2
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-model-comparison-assign2.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-model-comparison-assign2-id-2026aj05971.streamlit.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This repository contains the complete implementation for **Assignment - 2** of the **Machine Learning** course in the **M.Tech (AIML)** program at **BITS Pilani (Work Integrated Learning Programmes Division)**.
@@ -160,8 +160,25 @@ The app will automatically launch in your browser at `http://localhost:8501`.
 
 ## h. Deployment on Streamlit Community Cloud
 
+- **Live Deployed URL**: [https://ml-model-comparison-assign2-id-2026aj05971.streamlit.app/](https://ml-model-comparison-assign2-id-2026aj05971.streamlit.app/)
+
 1. Push all code and artifacts to GitHub repository `pysoserious/ml-model-comparison-assign2` on branch `main`.
 2. Navigate to [https://share.streamlit.io/](https://share.streamlit.io/).
 3. Connect your GitHub account and click **"New App"**.
 4. Select repository: `pysoserious/ml-model-comparison-assign2`, Branch: `main`, Main file path: `app.py`.
 5. Click **"Deploy"**.
+
+---
+
+## i. Execution Proof on BITS Virtual Lab
+
+The web application and model predictions were verified live on the **BITS Virtual Lab** environment (`https://g4.prayogshala.bits-pilani.ac.in`) for Student ID **`s2026aj05971`**:
+
+### 1. Comparative Evaluation Dashboard
+![BITS Virtual Lab - Evaluation Metrics Table](misc/ExeScreenshot1.png)
+
+### 2. Multi-Metric Comparison Charts & Combined ROC Curves
+![BITS Virtual Lab - Comparison Charts and ROC Curves](misc/ExeScreenshot2.png)
+
+### 3. Winner Selection & Observations Summary
+![BITS Virtual Lab - Winner Selection Summary](misc/ExeScreenshot3.png)

@@ -3,6 +3,7 @@
 
 **Course**: Machine Learning  
 **Programme**: M.Tech in Artificial Intelligence & Machine Learning  
+**Student ID**: 2026AJ05971  
 **Work Integrated Learning Programmes (WILP) Division, BITS Pilani**  
 **Submission Deadline**: 08-Nov-2026, 23:59 PM  
 
@@ -20,24 +21,23 @@
   - `model/` (Saved `.joblib` pipelines, `preprocessor.joblib`, `train_models.py`, `logistic_regression.py`, `model_training.ipynb`)
 
 ### 1.2 Live Streamlit App Link
-- **Deployed Application URL**: [https://ml-model-comparison-assign2.streamlit.app](https://ml-model-comparison-assign2.streamlit.app)  
+- **Deployed Application URL**: [https://ml-model-comparison-assign2-id-2026aj05971.streamlit.app/](https://ml-model-comparison-assign2-id-2026aj05971.streamlit.app/)  
   *(Opens an interactive frontend with live metric evaluation, confusion matrix heatmaps, ROC curves, and a real-time churn prediction simulator).*
 
 ---
 
 ## 2. Screenshot of Assignment Execution on BITS Virtual Lab
 
-> *Attach your screenshot of executing the code or launching the Streamlit app on BITS Virtual Lab here (e.g. running `python model/train_models.py` in the terminal).*
+The assignment execution and web application were verified on the **BITS Virtual Lab** environment (`https://g4.prayogshala.bits-pilani.ac.in`) under Student ID **`s2026aj05971`**.
 
-```text
-+---------------------------------------------------------------------------------+
-|                                                                                 |
-|                        [ INSERT BITS LAB SCREENSHOT HERE ]                      |
-|                                                                                 |
-|  Evidence of executing model training / Streamlit on BITS Virtual Lab terminal  |
-|                                                                                 |
-+---------------------------------------------------------------------------------+
-```
+### 2.1 Model Evaluation Table & Comparative View (BITS Lab)
+![BITS Virtual Lab - Evaluation Metrics Table](misc/ExeScreenshot1.png)
+
+### 2.2 Metric Comparison Bar Chart & Combined ROC Curves (BITS Lab)
+![BITS Virtual Lab - Comparison Charts and ROC Curves](misc/ExeScreenshot2.png)
+
+### 2.3 Model Performance Summary & Winner Selection (BITS Lab)
+![BITS Virtual Lab - Summary and Winner Selection](misc/ExeScreenshot3.png)
 
 ---
 
