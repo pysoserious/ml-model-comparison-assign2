@@ -5,7 +5,6 @@
 **Programme**: M.Tech in Artificial Intelligence & Machine Learning  
 **Student ID**: 2026AJ05971  
 **Work Integrated Learning Programmes (WILP) Division, BITS Pilani**  
-**Submission Deadline**: 08-Nov-2026, 23:59 PM  
 
 ---
 

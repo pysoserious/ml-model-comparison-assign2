@@ -2,6 +2,11 @@
 .DS_Store
 */.DS_Store
 
+# Local export files
+submission.html
+*.pdf
+!ML_Assignment_2_AIML_26Oct26.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
